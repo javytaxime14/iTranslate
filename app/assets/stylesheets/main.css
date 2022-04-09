@@ -1,0 +1,19 @@
+.app {
+    background:
+	linear-gradient(
+		rgb(159, 241, 159),
+		transparent
+	),
+	linear-gradient(
+		90deg,
+		rgb(49, 107, 202),
+		transparent
+	),
+	linear-gradient(
+		-90deg,
+		rgb(248, 89, 32),
+		transparent
+	);
+	
+background-blend-mode: screen;
+}
